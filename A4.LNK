@@ -1,0 +1,4 @@
+input d:\a4\a4.bin
+input d:\a4\a4lib\a4lib.bin
+output d:\a4.tos
+xdebug
